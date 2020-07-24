@@ -1,0 +1,6 @@
+# 忽略js
+index.js
+#忽略try文件夹
+try/
+#忽略try1文件夹下html
+try1/app.html
